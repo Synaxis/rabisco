@@ -1,0 +1,6 @@
+C:\Users\synaxis\Documents\GitHub\rabisco\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\synaxis\Documents\GitHub\rabisco\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\synaxis\Documents\GitHub\rabisco\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\synaxis\Documents\GitHub\rabisco\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\synaxis\Documents\GitHub\rabisco\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\synaxis\Documents\GitHub\rabisco\NumberGuesser\obj\Debug\NumberGuesser.pdb
